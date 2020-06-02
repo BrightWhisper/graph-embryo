@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rx-test"
+    }
+  },
+  "defaultProject": "rx-test",
+  "cli": {
+    "analytics": false
+  }
 }
